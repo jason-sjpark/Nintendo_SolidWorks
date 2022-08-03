@@ -1,4 +1,4 @@
-# nintendo_solidworks  
+# Nintendo_SolidWorks  
 
 2016.03. - 2016.06  
 
